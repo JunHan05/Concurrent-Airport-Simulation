@@ -1,0 +1,9 @@
+# Compiled Java class files and output
+build/
+
+# NetBeans temporary build artifacts
+.netbeans_automatic_build
+.netbeans_update_resources
+
+# NetBeans personal/private workspace configurations
+nbproject/private/
